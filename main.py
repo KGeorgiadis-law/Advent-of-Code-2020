@@ -17,3 +17,7 @@
 # from Day5 import boarding_passes, first_problem, second_problem
 
 # print(first_problem(boarding_passes), second_problem(boarding_passes))
+
+from Day6 import customs_answers, first_problem, second_problem
+ 
+print(first_problem(customs_answers), second_problem(customs_answers))
